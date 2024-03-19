@@ -1,6 +1,6 @@
 {
   "name": "@seamapi/third-party-assets",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A collection of third-party assets - logos, device images etc",
   "type": "module",
   "main": "index.js",
