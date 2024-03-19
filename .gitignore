@@ -11,6 +11,7 @@
 *.js.map
 !src/**/*.d.ts
 !ava.config.js
+!vite.config.js
 
 # Build directories
 package
@@ -197,7 +198,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
