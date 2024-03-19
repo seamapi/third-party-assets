@@ -1,1 +1,1 @@
-export * from './lib/ManufacturerLogo.js'
+export * from 'lib/index.js'
