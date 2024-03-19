@@ -1,13 +1,12 @@
 import type { CommonManufacturerLogoProps } from './CommonManufacturerLogoProps.js'
 
 export const AiPhoneLogo = ({
-  wordmark = false,
   monochrome = false,
   ...rest
 }: CommonManufacturerLogoProps) => {
   return (
     <svg
-      viewBox={wordmark ? '0 0 200 100' : '0 0 200 200'}
+      viewBox='0 0 200 200'
       fill='currentColor'
       aria-label='AiPhone logo'
       {...rest}

@@ -7,8 +7,7 @@ export const manufacturerLogos = {
 
 type ManufacturerName = keyof typeof manufacturerLogos
 
-interface ManufacturerLogoProps
-  extends Omit<CommonManufacturerLogoProps, 'wordmark'> {
+interface ManufacturerLogoProps extends CommonManufacturerLogoProps {
   manufacturerName: ManufacturerName
 }
 
@@ -17,7 +16,7 @@ export function ManufacturerLogo({
   ...rest
 }: ManufacturerLogoProps) {
   const Logo = manufacturerLogos[providerKey]
-  if (Logo !== undefined && Logo !== null) {
+  if (Logo != null) {
     return <Logo {...rest} />
   }
   return null
