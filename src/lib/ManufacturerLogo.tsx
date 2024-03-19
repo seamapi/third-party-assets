@@ -1,4 +1,13 @@
 import { AiPhoneLogo } from './manufacturers/AiPhoneLogo.js'
+import { AkilesLogo } from './manufacturers/AkilesLogo.js'
+import { AkuvoxLogo } from './manufacturers/AkuvoxLogo.js'
+import { AlarmLogo } from './manufacturers/AlarmLogo.js'
+import { AlfredLogo } from './manufacturers/AlfredLogo.js'
+import { AllegionLogo } from './manufacturers/AllegionLogo.js'
+import { AmagLogo } from './manufacturers/AmagLogo.js'
+import { AmericanStandardLogo } from './manufacturers/AmericanStandardLogo.js'
+import { AprilAireLogo } from './manufacturers/AprilAireLogo.js'
+import { AqaraLogo } from './manufacturers/AqaraLogo.js'
 import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufacturerLogoProps.js'
 
 /**
@@ -6,6 +15,15 @@ import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufact
  */
 export const manufacturerLogos = {
   ai_phone: AiPhoneLogo,
+  akiles: AkilesLogo,
+  akuvox: AkuvoxLogo,
+  alarm: AlarmLogo,
+  alfred: AlfredLogo,
+  allegion: AllegionLogo,
+  amag: AmagLogo,
+  american_standard: AmericanStandardLogo,
+  aprilaire: AprilAireLogo,
+  aqara: AqaraLogo,
 } as const
 
 type ManufacturerName = keyof typeof manufacturerLogos
