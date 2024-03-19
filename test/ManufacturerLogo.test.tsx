@@ -1,11 +1,11 @@
 import test from 'ava'
+import type { ComponentType } from 'react'
 import { renderToStaticMarkup } from 'react-dom/server'
 
 import {
   ManufacturerLogo,
   manufacturerLogos,
 } from '@seamapi/third-party-assets'
-import type { ComponentType } from 'react'
 
 for (const [key, value] of Object.entries(manufacturerLogos) as Array<
   [keyof typeof manufacturerLogos, ComponentType | null]
