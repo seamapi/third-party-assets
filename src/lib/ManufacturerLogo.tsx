@@ -1,5 +1,5 @@
-import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufacturerLogoProps.js'
 import { AiPhoneLogo } from './manufacturers/AiPhoneLogo.js'
+import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufacturerLogoProps.js'
 
 /**
  * A dictionary of manufacturer names to their respective logos.
