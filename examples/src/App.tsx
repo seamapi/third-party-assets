@@ -1,7 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-import { ManufacturerLogo, manufacturerLogos } from './ManufacturerLogo.js'
+import {
+  ManufacturerLogo,
+  manufacturerLogos,
+} from '@seamapi/third-party-assets'
 
 const root = document.getElementById('root')
 if (root === null) throw new Error('No root element found')

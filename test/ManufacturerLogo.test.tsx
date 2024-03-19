@@ -5,7 +5,7 @@ import { ManufacturerLogo } from '@seamapi/third-party-assets'
 
 test('todo: renders a logo', (t) => {
   const result = renderToStaticMarkup(
-    <ManufacturerLogo manufacturerName='salto' />,
+    <ManufacturerLogo manufacturerName='ai_phone' />,
   )
   t.true(result.startsWith('<svg'))
 })

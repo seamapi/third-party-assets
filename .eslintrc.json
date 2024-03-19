@@ -6,7 +6,6 @@
     "ecmaVersion": "latest"
   },
   "rules": {
-    "@typescript-eslint/explicit-function-return-type": "off",
     "no-console": "error",
     "unused-imports/no-unused-imports": "error",
     "unused-imports/no-unused-vars": [
@@ -51,7 +50,6 @@
       },
       "rules": {
         "@typescript-eslint/no-import-type-side-effects": "error",
-        "@typescript-eslint/strict-boolean-expressions": "off",
         "@typescript-eslint/consistent-type-imports": [
           "error",
           {
