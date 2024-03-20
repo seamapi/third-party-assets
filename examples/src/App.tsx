@@ -1,22 +1,14 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
+import './App.css'
+
+import { useState } from 'react'
 
 import {
   ManufacturerLogo,
   manufacturerLogos,
 } from '@seamapi/third-party-assets'
 
-const root = document.getElementById('root')
-if (root === null) throw new Error('No root element found')
-
-ReactDOM.createRoot(root).render(
-  <React.StrictMode>
-    <ManufacturerLogoShowcase />
-  </React.StrictMode>,
-)
-
-function ManufacturerLogoShowcase() {
-  const [monochrome, setMonochrome] = React.useState(false)
+export function App(): JSX.Element {
+  const [monochrome, setMonochrome] = useState(false)
 
   return (
     <div>
@@ -32,14 +24,7 @@ function ManufacturerLogoShowcase() {
       </label>
 
       <hr />
-      <div
-        style={{
-          margin: 24,
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fill, 100px)',
-          gap: 24,
-        }}
-      >
+      <div className='manufacturer-logos'>
         {(
           Object.keys(manufacturerLogos) as Array<
             keyof typeof manufacturerLogos

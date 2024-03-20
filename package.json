@@ -40,7 +40,7 @@
     "!**/*.test.ts"
   ],
   "scripts": {
-    "start": "vite examples --host",
+    "start": "npm run examples",
     "dev": "npm run start",
     "build": "npm run build:entrypoints",
     "prebuild": "tsx src/index.ts",
@@ -50,6 +50,12 @@
     "build:ts": "tsc --project tsconfig.build.json",
     "prebuild:ts": "del 'index.*' lib",
     "postbuild:ts": "tsc-alias --project tsconfig.build.json",
+    "docs:build": "npm run examples:build",
+    "examples": "vite examples --host",
+    "examples:build": "vite build examples",
+    "examples:preview": "vite preview examples",
+    "examples:storybook": "vite examples --host --clearScreen false --mode storybook",
+    "preexamples:preview": "npm run examples:build",
     "typecheck": "tsc",
     "test": "c8 ava",
     "pretest": "tsx src/index.ts",
