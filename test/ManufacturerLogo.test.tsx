@@ -1,4 +1,4 @@
-import test from 'ava'
+import { test, expect } from 'vitest'
 import type { ComponentType } from 'react'
 import { renderToStaticMarkup } from 'react-dom/server'
 
@@ -7,17 +7,17 @@ import {
   manufacturerLogos,
 } from '@seamapi/third-party-assets'
 
-for (const [key, value] of Object.entries(manufacturerLogos) as Array<
-  [keyof typeof manufacturerLogos, ComponentType | null]
->) {
-  test(`todo: renders ${key}`, (t) => {
-    const result = renderToStaticMarkup(
-      <ManufacturerLogo manufacturerName={key} />,
-    )
-    if (value === null) {
-      t.true(result === '')
-    } else {
-      t.true(result.startsWith('<svg'))
-    }
-  })
-}
+test.each(
+  Object.entries(manufacturerLogos) as Array<
+    [keyof typeof manufacturerLogos, ComponentType | null]
+  >,
+)('Renders logo for %s', (name, Logo) => {
+  const result = renderToStaticMarkup(
+    <ManufacturerLogo manufacturerName={name} />,
+  )
+  if (Logo === null) {
+    expect(result).toBe('')
+  } else {
+    expect(result).toMatch(/^<svg/)
+  }
+})
