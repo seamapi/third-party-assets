@@ -1,6 +1,6 @@
-import { test, expect } from 'vitest'
 import type { ComponentType } from 'react'
 import { renderToStaticMarkup } from 'react-dom/server'
+import { expect, test } from 'vitest'
 
 import {
   ManufacturerLogo,
