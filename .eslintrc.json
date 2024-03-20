@@ -1,7 +1,6 @@
 {
   "root": true,
   "plugins": ["simple-import-sort", "unused-imports"],
-  "ignorePatterns": ["vite.config.ts"],
   "parserOptions": {
     "sourceType": "module",
     "ecmaVersion": "latest"
