@@ -8,6 +8,9 @@ import { AmagLogo } from './manufacturers/AmagLogo.js'
 import { AmericanStandardLogo } from './manufacturers/AmericanStandardLogo.js'
 import { AprilAireLogo } from './manufacturers/AprilAireLogo.js'
 import { AqaraLogo } from './manufacturers/AqaraLogo.js'
+import { AssaLogo } from './manufacturers/AssaLogo.js'
+import { AugustLogo } from './manufacturers/AugustLogo.js'
+import { AvigilonLogo } from './manufacturers/AvigilonLogo.js'
 import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufacturerLogoProps.js'
 
 /**
@@ -24,6 +27,10 @@ export const manufacturerLogos = {
   american_standard: AmericanStandardLogo,
   aprilaire: AprilAireLogo,
   aqara: AqaraLogo,
+  assa_abloy_credential_service: null,
+  assa: AssaLogo,
+  august: AugustLogo,
+  avigilon_alta: AvigilonLogo,
 } as const
 
 type ManufacturerName = keyof typeof manufacturerLogos
