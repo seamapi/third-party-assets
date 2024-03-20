@@ -54,7 +54,6 @@
     "examples": "vite examples --host",
     "examples:build": "vite build examples",
     "examples:preview": "vite preview examples",
-    "examples:storybook": "vite examples --host --clearScreen false --mode storybook",
     "preexamples:preview": "npm run examples:build",
     "typecheck": "tsc",
     "test": "c8 ava",
