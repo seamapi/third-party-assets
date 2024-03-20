@@ -56,17 +56,15 @@
     "examples:preview": "vite preview examples",
     "preexamples:preview": "npm run examples:build",
     "typecheck": "tsc",
-    "test": "c8 ava",
     "pretest": "tsx src/index.ts",
-    "test:update": "ava --update-snapshots",
-    "test:watch": "ava --watch",
-    "test:debug": "ava debug --break",
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "test:debug": "vitest --inspect-brk",
     "lint": "eslint --ignore-path .gitignore .",
     "prelint": "prettier --check --ignore-path .gitignore .",
     "postversion": "git push --follow-tags",
     "format": "eslint --ignore-path .gitignore --fix .",
-    "preformat": "prettier --write --ignore-path .gitignore .",
-    "report": "c8 report"
+    "preformat": "prettier --write --ignore-path .gitignore ."
   },
   "engines": {
     "node": ">=18.12.0",
@@ -91,8 +89,6 @@
     "@types/react": "^18.2.67",
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
-    "ava": "^6.0.1",
-    "c8": "^9.0.0",
     "del-cli": "^5.0.0",
     "eslint": "^8.9.0",
     "eslint-config-prettier": "^9.0.0",
@@ -108,6 +104,7 @@
     "tsx": "^4.7.1",
     "typescript": "~5.3.0",
     "vite": "^5.1.6",
+    "vitest": "^1.4.0",
     "vite-tsconfig-paths": "^4.3.2"
   }
 }

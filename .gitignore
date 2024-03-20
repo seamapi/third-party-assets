@@ -12,7 +12,6 @@
 docs
 !src/**/*.d.ts
 !examples/**/*.d.ts
-!ava.config.js
 
 # Build directories
 package
@@ -198,8 +197,6 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 
-# Icon must end with two \r
-Icon
 
 # Thumbnails
 ._*
