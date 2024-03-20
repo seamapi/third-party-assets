@@ -17,11 +17,11 @@ import { ButterflyMXLogo } from './manufacturers/ButterflyMXLogo.js'
 import { CCureLogo } from './manufacturers/CCureLogo.js'
 import { ChamberlainLogo } from './manufacturers/ChamberlainLogo.js'
 import { ComelitLogo } from './manufacturers/ComelitLogo.js'
-import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufacturerLogoProps.js'
 import { ControlByWebLogo } from './manufacturers/ControlByWebLogo.js'
 import { DoorKingLogo } from './manufacturers/DoorKingLogo.js'
 import { DoorbirdLogo } from './manufacturers/DoorbirdLogo.js'
 import { DormakabaLogo } from './manufacturers/Dormakaba.js'
+import type { CommonManufacturerLogoProps } from './manufacturers/CommonManufacturerLogoProps.js'
 
 /**
  * A dictionary of manufacturer names to their respective logos.
