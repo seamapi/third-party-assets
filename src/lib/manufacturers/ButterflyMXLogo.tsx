@@ -59,11 +59,11 @@ export const ButterflyMXLogo = ({
           y2='77.3017'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#FFEB2E' />
-          <stop offset='0.407143' stop-color='#FFCD2F' />
-          <stop offset='0.663095' stop-color='#FEB42F' />
-          <stop offset='0.928571' stop-color='#FE9030' />
-          <stop offset='1' stop-color='#FE9030' />
+          <stop stopColor='#FFEB2E' />
+          <stop offset='0.407143' stopColor='#FFCD2F' />
+          <stop offset='0.663095' stopColor='#FEB42F' />
+          <stop offset='0.928571' stopColor='#FE9030' />
+          <stop offset='1' stopColor='#FE9030' />
         </linearGradient>
         <linearGradient
           id='paint1_linear_197_2019'
@@ -73,8 +73,8 @@ export const ButterflyMXLogo = ({
           y2='86.495'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#EF0A36' />
-          <stop offset='1' stop-color='#FF978A' />
+          <stop stopColor='#EF0A36' />
+          <stop offset='1' stopColor='#FF978A' />
         </linearGradient>
         <linearGradient
           id='paint2_linear_197_2019'
@@ -84,8 +84,8 @@ export const ButterflyMXLogo = ({
           y2='86.495'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#7914EF' />
-          <stop offset='1' stop-color='#DB69FF' />
+          <stop stopColor='#7914EF' />
+          <stop offset='1' stopColor='#DB69FF' />
         </linearGradient>
         <linearGradient
           id='paint3_linear_197_2019'
@@ -95,9 +95,9 @@ export const ButterflyMXLogo = ({
           y2='54.3209'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#0068E5' />
-          <stop offset='0.077381' stop-color='#006AE6' />
-          <stop offset='1' stop-color='#0AD9FF' />
+          <stop stopColor='#0068E5' />
+          <stop offset='0.077381' stopColor='#006AE6' />
+          <stop offset='1' stopColor='#0AD9FF' />
         </linearGradient>
       </defs>
     </>

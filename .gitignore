@@ -9,7 +9,9 @@
 *.d.ts
 *.js
 *.js.map
+docs
 !src/**/*.d.ts
+!examples/**/*.d.ts
 
 # Build directories
 package

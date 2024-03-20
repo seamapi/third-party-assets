@@ -6,7 +6,7 @@ export const YaleLogo = ({
 }: CommonManufacturerLogoProps) => {
   const monoChromePath = (
     <>
-      <g clip-path='url(#clip0_57_241)'>
+      <g clipPath='url(#clip0_57_241)'>
         <path
           fillRule='evenodd'
           clipRule='evenodd'
@@ -18,7 +18,7 @@ export const YaleLogo = ({
   )
   const colorPath = (
     <>
-      <g clip-path='url(#clip0_1_139)'>
+      <g clipPath='url(#clip0_1_139)'>
         <path
           d='M160 100C160 133.2 133.2 160 100 160C66.8 160 40 133.2 40 100C40 66.8 66.8 40 100 40C133.2 40 160 66.8 160 100Z'
           fill='url(#paint0_linear_1_139)'
@@ -49,13 +49,13 @@ export const YaleLogo = ({
           y2='54.7684'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#FFB300' />
-          <stop offset='0.0477' stop-color='#FFB800' />
-          <stop offset='0.3278' stop-color='#FFD000' />
-          <stop offset='0.5' stop-color='#FFD900' />
-          <stop offset='0.6722' stop-color='#FFDD09' />
-          <stop offset='0.9523' stop-color='#FFE921' />
-          <stop offset='1' stop-color='#FFEB26' />
+          <stop stopColor='#FFB300' />
+          <stop offset='0.0477' stopColor='#FFB800' />
+          <stop offset='0.3278' stopColor='#FFD000' />
+          <stop offset='0.5' stopColor='#FFD900' />
+          <stop offset='0.6722' stopColor='#FFDD09' />
+          <stop offset='0.9523' stopColor='#FFE921' />
+          <stop offset='1' stopColor='#FFEB26' />
         </linearGradient>
         <clipPath id='clip0_1_139'>
           <rect

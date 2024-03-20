@@ -11,7 +11,7 @@ export const MyQLogo = ({
       aria-label='MyQ logo'
       {...rest}
     >
-      <g clip-path='url(#clip0_1_598)'>
+      <g clipPath='url(#clip0_1_598)'>
         <path
           fillRule='evenodd'
           clipRule='evenodd'

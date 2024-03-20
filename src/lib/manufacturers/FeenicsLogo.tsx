@@ -52,17 +52,17 @@ export const FeenicsLogo = ({
           y2='84.1975'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#318DCF' />
-          <stop offset='0.102381' stop-color='#2F85C7' />
-          <stop offset='0.180952' stop-color='#2D80C2' />
-          <stop offset='0.255952' stop-color='#2B7ABC' />
-          <stop offset='0.320238' stop-color='#2A75B8' />
-          <stop offset='0.45119' stop-color='#276CB0' />
-          <stop offset='0.52619' stop-color='#2566AB' />
-          <stop offset='0.617857' stop-color='#2360A5' />
-          <stop offset='0.708333' stop-color='#21599E' />
-          <stop offset='0.915476' stop-color='#1C4B90' />
-          <stop offset='1' stop-color='#1A458A' />
+          <stop stopColor='#318DCF' />
+          <stop offset='0.102381' stopColor='#2F85C7' />
+          <stop offset='0.180952' stopColor='#2D80C2' />
+          <stop offset='0.255952' stopColor='#2B7ABC' />
+          <stop offset='0.320238' stopColor='#2A75B8' />
+          <stop offset='0.45119' stopColor='#276CB0' />
+          <stop offset='0.52619' stopColor='#2566AB' />
+          <stop offset='0.617857' stopColor='#2360A5' />
+          <stop offset='0.708333' stopColor='#21599E' />
+          <stop offset='0.915476' stopColor='#1C4B90' />
+          <stop offset='1' stopColor='#1A458A' />
         </linearGradient>
       </defs>
     </svg>
