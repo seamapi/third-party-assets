@@ -11,7 +11,7 @@ export const EcobeeLogo = ({
       aria-label='Ecobee logo'
       {...rest}
     >
-      <g clip-path='url(#clip0_1_582)'>
+      <g clipPath='url(#clip0_1_582)'>
         <path
           fillRule='evenodd'
           clipRule='evenodd'

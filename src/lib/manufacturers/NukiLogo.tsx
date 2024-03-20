@@ -11,7 +11,7 @@ export const NukiLogo = ({
       aria-label='Nuki logo'
       {...rest}
     >
-      <g clip-path='url(#clip0_1_604)'>
+      <g clipPath='url(#clip0_1_604)'>
         <path
           fillRule='evenodd'
           clipRule='evenodd'

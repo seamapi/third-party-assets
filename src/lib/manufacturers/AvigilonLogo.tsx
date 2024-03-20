@@ -40,8 +40,8 @@ export const AvigilonLogo = ({
           y2='125'
           gradientUnits='userSpaceOnUse'
         >
-          <stop offset='0.09375' stop-color='#005EB8' />
-          <stop offset='1' stop-color='#B5BE12' />
+          <stop offset='0.09375' stopColor='#005EB8' />
+          <stop offset='1' stopColor='#B5BE12' />
         </linearGradient>
       </defs>
     </svg>

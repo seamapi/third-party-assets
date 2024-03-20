@@ -11,7 +11,7 @@ export const WyzeLogo = ({
       aria-label='Wyze logo'
       {...rest}
     >
-      <g clip-path='url(#clip0_1_613)'>
+      <g clipPath='url(#clip0_1_613)'>
         <path
           fillRule='evenodd'
           clipRule='evenodd'

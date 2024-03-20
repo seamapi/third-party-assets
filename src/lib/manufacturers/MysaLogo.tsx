@@ -44,25 +44,25 @@ export const MysaLogo = ({
           y2='91.6243'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#DA1A5D' />
-          <stop offset='0.255952' stop-color='#D81C5E' />
-          <stop offset='0.272619' stop-color='#D11F61' />
-          <stop offset='0.295238' stop-color='#C92465' />
-          <stop offset='0.316667' stop-color='#C12869' />
-          <stop offset='0.327381' stop-color='#BD2A6B' />
-          <stop offset='0.359524' stop-color='#B03072' />
-          <stop offset='0.377381' stop-color='#AA3275' />
-          <stop offset='0.403571' stop-color='#A0387A' />
-          <stop offset='0.503571' stop-color='#7A4A8E' />
-          <stop offset='0.555952' stop-color='#665397' />
-          <stop offset='0.579762' stop-color='#5C589C' />
-          <stop offset='0.657143' stop-color='#3F65AA' />
-          <stop offset='0.688095' stop-color='#336AB0' />
-          <stop offset='0.703571' stop-color='#2E6DB3' />
-          <stop offset='0.72619' stop-color='#2672B7' />
-          <stop offset='0.741667' stop-color='#1E74BB' />
-          <stop offset='0.755952' stop-color='#1B75BC' />
-          <stop offset='1' stop-color='#1B75BC' />
+          <stop stopColor='#DA1A5D' />
+          <stop offset='0.255952' stopColor='#D81C5E' />
+          <stop offset='0.272619' stopColor='#D11F61' />
+          <stop offset='0.295238' stopColor='#C92465' />
+          <stop offset='0.316667' stopColor='#C12869' />
+          <stop offset='0.327381' stopColor='#BD2A6B' />
+          <stop offset='0.359524' stopColor='#B03072' />
+          <stop offset='0.377381' stopColor='#AA3275' />
+          <stop offset='0.403571' stopColor='#A0387A' />
+          <stop offset='0.503571' stopColor='#7A4A8E' />
+          <stop offset='0.555952' stopColor='#665397' />
+          <stop offset='0.579762' stopColor='#5C589C' />
+          <stop offset='0.657143' stopColor='#3F65AA' />
+          <stop offset='0.688095' stopColor='#336AB0' />
+          <stop offset='0.703571' stopColor='#2E6DB3' />
+          <stop offset='0.72619' stopColor='#2672B7' />
+          <stop offset='0.741667' stopColor='#1E74BB' />
+          <stop offset='0.755952' stopColor='#1B75BC' />
+          <stop offset='1' stopColor='#1B75BC' />
         </linearGradient>
         <linearGradient
           id='paint1_linear_230_485'
@@ -72,25 +72,25 @@ export const MysaLogo = ({
           y2='91.6243'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#DA1A5D' />
-          <stop offset='0.255952' stop-color='#D81C5E' />
-          <stop offset='0.272619' stop-color='#D11F61' />
-          <stop offset='0.295238' stop-color='#C92465' />
-          <stop offset='0.316667' stop-color='#C12869' />
-          <stop offset='0.327381' stop-color='#BD2A6B' />
-          <stop offset='0.359524' stop-color='#B03072' />
-          <stop offset='0.377381' stop-color='#AA3275' />
-          <stop offset='0.403571' stop-color='#A0387A' />
-          <stop offset='0.503571' stop-color='#7A4A8E' />
-          <stop offset='0.555952' stop-color='#665397' />
-          <stop offset='0.579762' stop-color='#5C589C' />
-          <stop offset='0.657143' stop-color='#3F65AA' />
-          <stop offset='0.688095' stop-color='#336AB0' />
-          <stop offset='0.703571' stop-color='#2E6DB3' />
-          <stop offset='0.72619' stop-color='#2672B7' />
-          <stop offset='0.741667' stop-color='#1E74BB' />
-          <stop offset='0.755952' stop-color='#1B75BC' />
-          <stop offset='1' stop-color='#1B75BC' />
+          <stop stopColor='#DA1A5D' />
+          <stop offset='0.255952' stopColor='#D81C5E' />
+          <stop offset='0.272619' stopColor='#D11F61' />
+          <stop offset='0.295238' stopColor='#C92465' />
+          <stop offset='0.316667' stopColor='#C12869' />
+          <stop offset='0.327381' stopColor='#BD2A6B' />
+          <stop offset='0.359524' stopColor='#B03072' />
+          <stop offset='0.377381' stopColor='#AA3275' />
+          <stop offset='0.403571' stopColor='#A0387A' />
+          <stop offset='0.503571' stopColor='#7A4A8E' />
+          <stop offset='0.555952' stopColor='#665397' />
+          <stop offset='0.579762' stopColor='#5C589C' />
+          <stop offset='0.657143' stopColor='#3F65AA' />
+          <stop offset='0.688095' stopColor='#336AB0' />
+          <stop offset='0.703571' stopColor='#2E6DB3' />
+          <stop offset='0.72619' stopColor='#2672B7' />
+          <stop offset='0.741667' stopColor='#1E74BB' />
+          <stop offset='0.755952' stopColor='#1B75BC' />
+          <stop offset='1' stopColor='#1B75BC' />
         </linearGradient>
         <linearGradient
           id='paint2_linear_230_485'
@@ -100,25 +100,25 @@ export const MysaLogo = ({
           y2='91.6243'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#DA1A5D' />
-          <stop offset='0.255952' stop-color='#D81C5E' />
-          <stop offset='0.272619' stop-color='#D11F61' />
-          <stop offset='0.295238' stop-color='#C92465' />
-          <stop offset='0.316667' stop-color='#C12869' />
-          <stop offset='0.327381' stop-color='#BD2A6B' />
-          <stop offset='0.359524' stop-color='#B03072' />
-          <stop offset='0.377381' stop-color='#AA3275' />
-          <stop offset='0.403571' stop-color='#A0387A' />
-          <stop offset='0.503571' stop-color='#7A4A8E' />
-          <stop offset='0.555952' stop-color='#665397' />
-          <stop offset='0.579762' stop-color='#5C589C' />
-          <stop offset='0.657143' stop-color='#3F65AA' />
-          <stop offset='0.688095' stop-color='#336AB0' />
-          <stop offset='0.703571' stop-color='#2E6DB3' />
-          <stop offset='0.72619' stop-color='#2672B7' />
-          <stop offset='0.741667' stop-color='#1E74BB' />
-          <stop offset='0.755952' stop-color='#1B75BC' />
-          <stop offset='1' stop-color='#1B75BC' />
+          <stop stopColor='#DA1A5D' />
+          <stop offset='0.255952' stopColor='#D81C5E' />
+          <stop offset='0.272619' stopColor='#D11F61' />
+          <stop offset='0.295238' stopColor='#C92465' />
+          <stop offset='0.316667' stopColor='#C12869' />
+          <stop offset='0.327381' stopColor='#BD2A6B' />
+          <stop offset='0.359524' stopColor='#B03072' />
+          <stop offset='0.377381' stopColor='#AA3275' />
+          <stop offset='0.403571' stopColor='#A0387A' />
+          <stop offset='0.503571' stopColor='#7A4A8E' />
+          <stop offset='0.555952' stopColor='#665397' />
+          <stop offset='0.579762' stopColor='#5C589C' />
+          <stop offset='0.657143' stopColor='#3F65AA' />
+          <stop offset='0.688095' stopColor='#336AB0' />
+          <stop offset='0.703571' stopColor='#2E6DB3' />
+          <stop offset='0.72619' stopColor='#2672B7' />
+          <stop offset='0.741667' stopColor='#1E74BB' />
+          <stop offset='0.755952' stopColor='#1B75BC' />
+          <stop offset='1' stopColor='#1B75BC' />
         </linearGradient>
         <linearGradient
           id='paint3_linear_230_485'
@@ -128,25 +128,25 @@ export const MysaLogo = ({
           y2='91.6243'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#DA1A5D' />
-          <stop offset='0.255952' stop-color='#D81C5E' />
-          <stop offset='0.272619' stop-color='#D11F61' />
-          <stop offset='0.295238' stop-color='#C92465' />
-          <stop offset='0.316667' stop-color='#C12869' />
-          <stop offset='0.327381' stop-color='#BD2A6B' />
-          <stop offset='0.359524' stop-color='#B03072' />
-          <stop offset='0.377381' stop-color='#AA3275' />
-          <stop offset='0.403571' stop-color='#A0387A' />
-          <stop offset='0.503571' stop-color='#7A4A8E' />
-          <stop offset='0.555952' stop-color='#665397' />
-          <stop offset='0.579762' stop-color='#5C589C' />
-          <stop offset='0.657143' stop-color='#3F65AA' />
-          <stop offset='0.688095' stop-color='#336AB0' />
-          <stop offset='0.703571' stop-color='#2E6DB3' />
-          <stop offset='0.72619' stop-color='#2672B7' />
-          <stop offset='0.741667' stop-color='#1E74BB' />
-          <stop offset='0.755952' stop-color='#1B75BC' />
-          <stop offset='1' stop-color='#1B75BC' />
+          <stop stopColor='#DA1A5D' />
+          <stop offset='0.255952' stopColor='#D81C5E' />
+          <stop offset='0.272619' stopColor='#D11F61' />
+          <stop offset='0.295238' stopColor='#C92465' />
+          <stop offset='0.316667' stopColor='#C12869' />
+          <stop offset='0.327381' stopColor='#BD2A6B' />
+          <stop offset='0.359524' stopColor='#B03072' />
+          <stop offset='0.377381' stopColor='#AA3275' />
+          <stop offset='0.403571' stopColor='#A0387A' />
+          <stop offset='0.503571' stopColor='#7A4A8E' />
+          <stop offset='0.555952' stopColor='#665397' />
+          <stop offset='0.579762' stopColor='#5C589C' />
+          <stop offset='0.657143' stopColor='#3F65AA' />
+          <stop offset='0.688095' stopColor='#336AB0' />
+          <stop offset='0.703571' stopColor='#2E6DB3' />
+          <stop offset='0.72619' stopColor='#2672B7' />
+          <stop offset='0.741667' stopColor='#1E74BB' />
+          <stop offset='0.755952' stopColor='#1B75BC' />
+          <stop offset='1' stopColor='#1B75BC' />
         </linearGradient>
         <linearGradient
           id='paint4_linear_230_485'
@@ -156,25 +156,25 @@ export const MysaLogo = ({
           y2='91.6243'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#DA1A5D' />
-          <stop offset='0.255952' stop-color='#D81C5E' />
-          <stop offset='0.272619' stop-color='#D11F61' />
-          <stop offset='0.295238' stop-color='#C92465' />
-          <stop offset='0.316667' stop-color='#C12869' />
-          <stop offset='0.327381' stop-color='#BD2A6B' />
-          <stop offset='0.359524' stop-color='#B03072' />
-          <stop offset='0.377381' stop-color='#AA3275' />
-          <stop offset='0.403571' stop-color='#A0387A' />
-          <stop offset='0.503571' stop-color='#7A4A8E' />
-          <stop offset='0.555952' stop-color='#665397' />
-          <stop offset='0.579762' stop-color='#5C589C' />
-          <stop offset='0.657143' stop-color='#3F65AA' />
-          <stop offset='0.688095' stop-color='#336AB0' />
-          <stop offset='0.703571' stop-color='#2E6DB3' />
-          <stop offset='0.72619' stop-color='#2672B7' />
-          <stop offset='0.741667' stop-color='#1E74BB' />
-          <stop offset='0.755952' stop-color='#1B75BC' />
-          <stop offset='1' stop-color='#1B75BC' />
+          <stop stopColor='#DA1A5D' />
+          <stop offset='0.255952' stopColor='#D81C5E' />
+          <stop offset='0.272619' stopColor='#D11F61' />
+          <stop offset='0.295238' stopColor='#C92465' />
+          <stop offset='0.316667' stopColor='#C12869' />
+          <stop offset='0.327381' stopColor='#BD2A6B' />
+          <stop offset='0.359524' stopColor='#B03072' />
+          <stop offset='0.377381' stopColor='#AA3275' />
+          <stop offset='0.403571' stopColor='#A0387A' />
+          <stop offset='0.503571' stopColor='#7A4A8E' />
+          <stop offset='0.555952' stopColor='#665397' />
+          <stop offset='0.579762' stopColor='#5C589C' />
+          <stop offset='0.657143' stopColor='#3F65AA' />
+          <stop offset='0.688095' stopColor='#336AB0' />
+          <stop offset='0.703571' stopColor='#2E6DB3' />
+          <stop offset='0.72619' stopColor='#2672B7' />
+          <stop offset='0.741667' stopColor='#1E74BB' />
+          <stop offset='0.755952' stopColor='#1B75BC' />
+          <stop offset='1' stopColor='#1B75BC' />
         </linearGradient>
         <linearGradient
           id='paint5_linear_230_485'
@@ -184,25 +184,25 @@ export const MysaLogo = ({
           y2='91.6243'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#DA1A5D' />
-          <stop offset='0.255952' stop-color='#D81C5E' />
-          <stop offset='0.272619' stop-color='#D11F61' />
-          <stop offset='0.295238' stop-color='#C92465' />
-          <stop offset='0.316667' stop-color='#C12869' />
-          <stop offset='0.327381' stop-color='#BD2A6B' />
-          <stop offset='0.359524' stop-color='#B03072' />
-          <stop offset='0.377381' stop-color='#AA3275' />
-          <stop offset='0.403571' stop-color='#A0387A' />
-          <stop offset='0.503571' stop-color='#7A4A8E' />
-          <stop offset='0.555952' stop-color='#665397' />
-          <stop offset='0.579762' stop-color='#5C589C' />
-          <stop offset='0.657143' stop-color='#3F65AA' />
-          <stop offset='0.688095' stop-color='#336AB0' />
-          <stop offset='0.703571' stop-color='#2E6DB3' />
-          <stop offset='0.72619' stop-color='#2672B7' />
-          <stop offset='0.741667' stop-color='#1E74BB' />
-          <stop offset='0.755952' stop-color='#1B75BC' />
-          <stop offset='1' stop-color='#1B75BC' />
+          <stop stopColor='#DA1A5D' />
+          <stop offset='0.255952' stopColor='#D81C5E' />
+          <stop offset='0.272619' stopColor='#D11F61' />
+          <stop offset='0.295238' stopColor='#C92465' />
+          <stop offset='0.316667' stopColor='#C12869' />
+          <stop offset='0.327381' stopColor='#BD2A6B' />
+          <stop offset='0.359524' stopColor='#B03072' />
+          <stop offset='0.377381' stopColor='#AA3275' />
+          <stop offset='0.403571' stopColor='#A0387A' />
+          <stop offset='0.503571' stopColor='#7A4A8E' />
+          <stop offset='0.555952' stopColor='#665397' />
+          <stop offset='0.579762' stopColor='#5C589C' />
+          <stop offset='0.657143' stopColor='#3F65AA' />
+          <stop offset='0.688095' stopColor='#336AB0' />
+          <stop offset='0.703571' stopColor='#2E6DB3' />
+          <stop offset='0.72619' stopColor='#2672B7' />
+          <stop offset='0.741667' stopColor='#1E74BB' />
+          <stop offset='0.755952' stopColor='#1B75BC' />
+          <stop offset='1' stopColor='#1B75BC' />
         </linearGradient>
       </defs>
     </svg>
